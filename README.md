@@ -1,7 +1,7 @@
 <a href="http://commandpost.io/" ><img src="https://github.com/CommandPost/CommandPost-Website/blob/master/assets/images/CommandPost_Icon_128%402x.png" align="right"  width="15%" height="15%" /> </a>
 
 # [CommandPost](http://commandpost.io/)
-[![Latest-Release](https://img.shields.io/github/v/release/CommandPost/CommandPost?include_prereleases)]
+![Latest-Release](https://img.shields.io/github/v/release/CommandPost/CommandPost?include_prereleases)
 > Workflow Toolkit for Professional Editors
 
 ## Introduction:
