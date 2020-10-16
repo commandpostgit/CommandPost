@@ -22,7 +22,7 @@ Built-in collection of titles, special effects, backgrounds and screensavers;
 Ability to add text, background music and comments from the microphone;
 Realistic animations of snow, leaffall, fire, water, reflections and fireworks;
 Allows you to upload the finished project to YouTube, VK, Facebook and many other sites.
-Shortcomings .
+
 
 ## Download:
 
